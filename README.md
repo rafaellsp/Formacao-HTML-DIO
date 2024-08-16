@@ -9,4 +9,4 @@ Bootcamp: [Formação HTML Developer](https://web.dio.me/track/formacao-html-web
 
 Certificado: Rafael Lucas
 
-<img src="https://hermes.dio.me/certificates/cover/3TIERFGF.jpg" alt="Curso HTML DIO" width="400" height="200">
+<img src="https://hermes.dio.me/certificates/cover/3TIERFGF.jpg" alt="Curso HTML DIO" width="400" height="250">
